@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../hello-nodejs"
+		}
+	],
+	"settings": {
+		"scm.alwaysShowProviders": true
+	}
+}
